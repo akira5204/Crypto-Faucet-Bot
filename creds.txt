@@ -1,0 +1,60 @@
+#####################################################################################################
+#	DO NOT CHANGE THE FORMATTING OF THIS DOCUMENT.  THE SCRIPT RELIES ON LINE NUMBERS TO BE EXACT.	#
+#																									#
+#	FORMATTING IS AS FOLLOWS: 	sitename.io	(do not make any edits to the site names)				#
+#								e-mail 		(replace the word e-mail with your e-mail)				#
+#								password 	(replace the word password with your password)			#
+#####################################################################################################
+
+https://freedash.io/
+e-mail
+password
+
+https://freenem.com/
+e-mail
+password
+
+https://freecardano.com/
+e-mail
+password
+
+https://coinfaucet.io/
+e-mail
+password
+
+https://freebitcoin.io/
+e-mail
+password
+
+https://freesteam.io/
+e-mail
+password
+
+https://freeusdcoin.com/
+e-mail
+password
+
+https://freechainlink.io/
+e-mail
+password
+
+https://free-tron.com/
+e-mail
+password
+
+https://freebinancecoin.com/
+e-mail
+password
+
+https://freeneo.io/
+e-mail
+password
+
+https://free-ltc.com/
+e-mail
+password
+
+https://freeethereum.com/
+e-mail
+password
+twb
